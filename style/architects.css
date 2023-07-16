@@ -3,6 +3,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
 
 /* shared style */
+.section-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #131313;
+}
 
 * {
     
@@ -21,11 +26,7 @@ header{
     background: rgba(255, 144, 14, 0.10);
     padding: 50px 240px;
 }
-.nav-title{
-    font-size: 2.8rem;
-    font-weight: 700;
-    color: #131313;
-}
+
 
 nav{
     display: flex;
